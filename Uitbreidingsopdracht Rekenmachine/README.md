@@ -71,3 +71,4 @@ Omdat de problemen naast elkaar getoond worden is het niet mogelijk om ze een vo
 
 **return** stopt het programma meteen. Zorg ervoor dat je op een logisch moment controleert of er een fout is. Ga bijvoorbeeld niet kijken of er meer dan vijf rekenkundige problemen zijn gegeven wanneer je deze al allemaal verwerkt hebt. Doe dit meteen als je de functie binnenkomt!
 
+Maak gebruik van `main.py`. Deze geeft een aantal voorbeelden om te controleren of je goed bezig bent.
